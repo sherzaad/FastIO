@@ -1,2 +1,2 @@
 # FastIO
-Simple Arduino Library as substitute for digitalWrite()/digitalRead() functions
+Simple Arduino AVR Library as substitute for digitalWrite()/digitalRead() functions
